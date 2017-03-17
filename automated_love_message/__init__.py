@@ -1,0 +1,1 @@
+from automated_love_message import AutomatedLoveMessage
